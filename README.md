@@ -20,5 +20,5 @@ const Hugo  = {
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=HugoPerez13&show_icons=true&hide_border=true)
 
