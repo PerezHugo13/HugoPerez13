@@ -1,12 +1,13 @@
 ### Hi there 👋
 Mi nombre es Hugo, estoy encantado de verles por mi perfil.
 
-javascript
+```javascript
 const Hugo  = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Scss],
   tools: [React, Node, Angular],
   };
+  ```
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
