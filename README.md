@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mi nombre es Hugo, estoy encantado de verles por mi perfil.
+My name is Hugo, welcome to my profile.
 
 ```javascript
 const Hugo  = {
