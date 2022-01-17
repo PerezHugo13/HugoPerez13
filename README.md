@@ -2,6 +2,7 @@
 My name is Hugo, welcome to my profile. <a href="https://instagram.com/hugoperezphoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hugoperezphoto" height="30" width="40" /></a>
 </p>
 
+
 ```javascript
 const Hugo  = {
   pronouns: "he" | "him",
@@ -20,4 +21,7 @@ const Hugo  = {
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HugoPerez13&show_icons=true&hide_border=true)
+
+📫 hugoperez80@hotmail.com
+
 
