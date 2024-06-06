@@ -22,6 +22,6 @@ const Hugo  = {
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HugoPerez13&show_icons=true&hide_border=true)
 
-📫 hugoperez80@hotmail.com
+📫 perez-hugo90@outlook.es
 
 
